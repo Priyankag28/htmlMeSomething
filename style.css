@@ -1,0 +1,15 @@
+.resume-title {
+    color:blue;
+    margin-left: 30%;
+    font: italic bold 30px/30px Georgia, serif;
+}
+
+h2 {
+    font: italic bold 18px/30px Georgia, serif;
+    text-decoration: underline;
+}
+
+img {
+    max-width:20%;
+    height:autp;
+}
